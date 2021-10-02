@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://trafiki.github.io/base-apparel-coming-soon/)
+- Live Site URL: [Github page](https://trafiki.github.io/base-apparel-coming-soon/)
 
 
 ## Author
